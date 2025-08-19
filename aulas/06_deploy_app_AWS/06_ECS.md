@@ -1,0 +1,2 @@
+Conhecendo o ECS
+Nesta aula, exploramos o Elastic Container Service (ECS) da AWS, que é um pouco mais complexo que o AppRunner. Discutimos a criação de clusters, que são agrupamentos de cargas de trabalho, e a importância das Task Definitions, que definem como nossas aplicações funcionam. Também falamos sobre a diferença entre Tasks e Services, além de como o Fargate otimiza custos com um modelo serverless. Na próxima aula, vamos entender como acessar nossas aplicações no ECS. Espero você lá!

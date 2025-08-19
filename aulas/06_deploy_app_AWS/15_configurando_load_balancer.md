@@ -1,0 +1,2 @@
+Configurando o Load Balancer
+Nesta aula, estamos finalizando a criação da estrutura de um Load Balancer na AWS. Abordamos o Application Load Balancer (ALB), que opera na camada HTTP, e discutimos os custos associados à VPC, subnets e ao próprio Load Balancer. Também falamos sobre a configuração do target group e a importância do health check. Ao final, vamos criar a estrutura e acompanhar o processo de provisionamento.

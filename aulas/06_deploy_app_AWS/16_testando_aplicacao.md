@@ -1,0 +1,2 @@
+Testando Aplicação
+Nesta aula, exploramos a criação e configuração de um serviço no ECS, incluindo a associação com um load balancer. Verificamos as réplicas do container e acompanhamos os logs da aplicação. Apesar de tudo parecer funcionando, encontramos um problema ao tentar acessar o serviço, o que nos levou a um troubleshooting. Encerramos a aula prometendo voltar para resolver essa questão na próxima sessão.
